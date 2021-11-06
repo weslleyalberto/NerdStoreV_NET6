@@ -33,6 +33,27 @@ namespace NerdStore.Catalogo.Domain
             Categoria = categoria;
             CategoriaId = categoria.Id;
         }
+        public void AlterarDescricao(string descricao)
+        {
+            Descricao = descricao;
+        }
+        public void DebitarEstoque(int quantidade)
+        {
+            if (quantidade < 0) quantidade *= -1;
+            QuantidadeEstoque -= quantidade;
+        }
+        public void ReporEstoque(int quantidade)
+        {
+            QuantidadeEstoque += quantidade;
+        }
+        public bool Possuiestoque(int quantidade)
+        {
+            return QuantidadeEstoque >= quantidade;
+        }
+        public void Validar()
+        {
+
+        }
     }
     public class Categoria : Entity
     {

@@ -10,6 +10,11 @@
       "ProjectGuid": "a4531413-5a79-457e-8969-8b151883c65a",
       "DisplayName": "NerdStore.Core",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 2

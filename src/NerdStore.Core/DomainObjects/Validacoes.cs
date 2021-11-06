@@ -68,6 +68,27 @@ namespace NerdStore.Core.DomainObjects
                 throw new Exception(message);
             }
         }
+        public static void ValidarMinimoMaximo(int valor, int minimo, int maximo,string message)
+        {
+            if(valor < minimo || valor > maximo)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void ValidarMinimoMaximo(decimal valor, decimal minimo, decimal maximo, string message)
+        {
+            if (valor < minimo || valor > maximo)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void ValidarMinimoMaximo(float valor, float minimo,float maximo,string message)
+        {
+            if(valor <minimo || valor > maximo)
+            {
+                throw new DomainException(message);
+            }
+        }
         public static void ValidarMinimoMaximo(long valor, long minimo, long maximo,string message)
         {
             if(valor < minimo || valor > maximo)
@@ -78,6 +99,27 @@ namespace NerdStore.Core.DomainObjects
         public static void ValidarSeMenorIgualMinimo(int valor, int minimo,string message)
         {
             if(valor <= minimo)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void ValidarSeMenorIgualMinimo(decimal valor, decimal minimo, string message)
+        {
+            if (valor <= minimo)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void ValidarSeMenorIgualMinimo(float valor, float minimo, string message)
+        {
+            if (valor <= minimo)
+            {
+                throw new DomainException(message);
+            }
+        }
+        public static void ValidarSeMenorIgualMinimo(long valor, long minimo, string message)
+        {
+            if (valor <= minimo)
             {
                 throw new DomainException(message);
             }

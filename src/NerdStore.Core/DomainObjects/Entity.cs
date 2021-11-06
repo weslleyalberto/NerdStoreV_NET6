@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace NerdStore.Core.DomainObjects
 {
-    public abstract class Entity
+    public abstract class Entity : IAggragateRoot
     {
         public Guid Id { get; set; }
         protected Entity()

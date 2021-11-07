@@ -14,11 +14,11 @@ namespace NerdStore.Catalogo.Domain
         public string Imagem { get;private set; }
         public int QuantidadeEstoque { get; private set; }
         public Dimensoes Dimensoes { get; private set; }
-        public Categoria Categoria { get; private set; }
+        public Categoria? Categoria { get; private set; }
       
      
 
-        public Produto( string nome, string descricao, bool ativo, decimal valor, DateTime dataCadastro, string imagem,Dimensoes dimensoes)
+        public Produto( string nome, string descricao, bool ativo, decimal valor, DateTime dataCadastro,Guid categoriaId, string imagem,Dimensoes dimensoes)
         {
            
             Nome = nome;
@@ -28,6 +28,7 @@ namespace NerdStore.Catalogo.Domain
             DataCadastro = dataCadastro;
             Imagem = imagem;
             Dimensoes = dimensoes;
+            CategoriaId = categoriaId;
             Validar();
           
         }
@@ -61,8 +62,8 @@ namespace NerdStore.Catalogo.Domain
         {
             Validacoes.ValidarSeVazio(Nome, "O campo Nome do produto não pode estar vazio");
             Validacoes.ValidarSeVazio(Descricao, "O campo descrição não pode estar vazio");
-            Validacoes.ValidarSeDiferente(CategoriaId, Guid.Empty, "O campo categoriaId do produto não pode ser vazio");
-            Validacoes.ValidarSeMenorIgualMinimo(Valor,0, "O campo valor do produto não pode ser menor igual a 0");
+            Validacoes.ValidarSeIgual(CategoriaId, Guid.Empty, "O campo categoriaId do produto não pode ser vazio");
+            Validacoes.ValidarSeMenorQue(Valor,0, "O campo valor do produto não pode ser menor igual a 0");
             Validacoes.ValidarSeVazio(Imagem, "O campo imagem do produto não pode estar vazio");
 
         }

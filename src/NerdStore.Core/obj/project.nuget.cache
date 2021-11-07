@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SEvNZFXxWXAoyl3mEuNrOAuuWzwrQhf4BqOILW0M8efClswEWO/5/da8/Q1sd2O91q09LBvdJuMWZLXXXd5Tew==",
+  "dgSpecHash": "OP1OzqLmFn7Gaqqfuhuw0bQBy+k8vluJBlHcrghVm0YQJNnb49Hv7IQCXr3VKbJbJk3FnIedZ4DsxizKGZQiLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\wesll\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

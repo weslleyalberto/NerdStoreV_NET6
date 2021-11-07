@@ -20,6 +20,14 @@
         }
       },
       "coverlet.collector/3.1.0": {},
+      "MediatR/9.0.0": {
+        "runtime": {
+          "lib/netstandard2.1/MediatR.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
       "Microsoft.CodeCoverage/16.11.0": {
         "runtime": {
           "lib/netcoreapp1.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll": {
@@ -1093,6 +1101,7 @@
       "xunit.runner.visualstudio/2.4.3": {},
       "NerdStore.Catalogo.Domain/1.0.0": {
         "dependencies": {
+          "MediatR": "9.0.0",
           "NerdStore.Core": "1.0.0"
         },
         "runtime": {
@@ -1100,6 +1109,9 @@
         }
       },
       "NerdStore.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "9.0.0"
+        },
         "runtime": {
           "NerdStore.Core.dll": {}
         }
@@ -1118,6 +1130,13 @@
       "sha512": "sha512-YzYqSRrjoP5lULBhTDcTOjuM4IDPPi6PhFsl4w8EI4WdZhE6llt7E38Tg4CHyrS+QKwyu1+9OwkdDgluOdoBTw==",
       "path": "coverlet.collector/3.1.0",
       "hashPath": "coverlet.collector.3.1.0.nupkg.sha512"
+    },
+    "MediatR/9.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
+      "path": "mediatr/9.0.0",
+      "hashPath": "mediatr.9.0.0.nupkg.sha512"
     },
     "Microsoft.CodeCoverage/16.11.0": {
       "type": "package",

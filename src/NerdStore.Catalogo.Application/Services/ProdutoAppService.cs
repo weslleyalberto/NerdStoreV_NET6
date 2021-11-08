@@ -51,11 +51,15 @@ namespace NerdStore.Catalogo.Application.Services
         {
             return _mapper.Map<IEnumerable<CategoriaViewModel>>(await _produtoRepository.ObterCategorias());
         }
-
+        public async Task<IEnumerable<ProdutoViewModel>> ObterTodos()
+        {
+            return _mapper.Map<IEnumerable<ProdutoViewModel>>(await _produtoRepository.ObterTodos());
+        }
         public async Task<ProdutoViewModel> ObterPorId(Guid id)
         {
             return _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterPorId(id));  
         }
+
 
         public async Task<ProdutoViewModel> ReporEstoque(Guid id, int quantidade)
         {
@@ -66,10 +70,13 @@ namespace NerdStore.Catalogo.Application.Services
             return _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterPorId(id));
         }
 
+     
         public void Dispose()
         {
             _produtoRepository?.Dispose();
             _estoqueService?.Dispose();
         }
+
+       
     }
 }

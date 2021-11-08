@@ -30,7 +30,12 @@
       "ProjectGuid": "613d5aca-5b30-4c70-8c13-0997db58db9f",
       "DisplayName": "NerdStore.Catalogo.Application",
       "ColorIndex": 4
+    },
+    "525b332a-4bbf-4416-a2d1-0fcbc96ada6b": {
+      "ProjectGuid": "525b332a-4bbf-4416-a2d1-0fcbc96ada6b",
+      "DisplayName": "NerdStore.WebApps.MVC",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

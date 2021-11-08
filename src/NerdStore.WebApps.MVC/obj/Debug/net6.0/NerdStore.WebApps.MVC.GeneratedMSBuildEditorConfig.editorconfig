@@ -19,6 +19,22 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[c:/Users/wesll/Desktop/Desenvolvedor_io/NerdStore/src/NerdStore.WebApps.MVC/Views/AdminProdutos/AtualizarProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdXRvc1xBdHVhbGl6YXJQcm9kdXRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/wesll/Desktop/Desenvolvedor_io/NerdStore/src/NerdStore.WebApps.MVC/Views/AdminProdutos/Estoque.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdXRvc1xFc3RvcXVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/wesll/Desktop/Desenvolvedor_io/NerdStore/src/NerdStore.WebApps.MVC/Views/AdminProdutos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdXRvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/wesll/Desktop/Desenvolvedor_io/NerdStore/src/NerdStore.WebApps.MVC/Views/AdminProdutos/NovoProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Qcm9kdXRvc1xOb3ZvUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/wesll/Desktop/Desenvolvedor_io/NerdStore/src/NerdStore.WebApps.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -25,7 +25,12 @@
       "ProjectGuid": "0dbe8ba3-e320-4a6e-945d-ede3e7235388",
       "DisplayName": "NerdStore.Catalogo.Data",
       "ColorIndex": 3
+    },
+    "613d5aca-5b30-4c70-8c13-0997db58db9f": {
+      "ProjectGuid": "613d5aca-5b30-4c70-8c13-0997db58db9f",
+      "DisplayName": "NerdStore.Catalogo.Application",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }

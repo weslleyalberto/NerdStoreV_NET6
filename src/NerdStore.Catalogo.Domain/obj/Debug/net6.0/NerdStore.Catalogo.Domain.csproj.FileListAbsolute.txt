@@ -4,7 +4,6 @@ C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Catalogo.Domain\
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net6.0\NerdStore.Catalogo.Domain.pdb
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net6.0\NerdStore.Core.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Catalogo.Domain\bin\Debug\net6.0\NerdStore.Core.pdb
-C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.GlobalUsings.g.cs
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.csproj.AssemblyReference.cache
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Catalogo.Domain\obj\Debug\net6.0\NerdStore.Catalogo.Domain.AssemblyInfoInputs.cache

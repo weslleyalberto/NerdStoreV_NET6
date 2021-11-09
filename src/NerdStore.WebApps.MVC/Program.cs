@@ -1,16 +1,11 @@
 using MediatR;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Internal;
 using NerdStore.Catalogo.Application.AutoMapper;
-using NerdStore.Catalogo.Application.Services;
 using NerdStore.Catalogo.Data;
-using NerdStore.Catalogo.Data.Repository;
-using NerdStore.Catalogo.Domain;
 using NerdStore.Core.Bus;
 using NerdStore.WebApps.MVC.Data;
 using NerdStore.WebApps.MVC.Setup;
-using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,10 +21,10 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddAutoMapper(typeof(DomainToViewModelMappingProfile),typeof(ViewModelToDomainMappingProfile)); // Adicionar Profiles
-//builder.Services.AddMediatR(typeof(Program));
+builder.Services.AddMediatR(typeof(Program));
 
 //Domain Bus (MediatR)
-builder.Services.AddMediatR(typeof(MediatrHandler));
+//builder.Services.AddMediatR(typeof(MediatrHandler));
 
 builder.Services.AddScoped<CatalogoContext>();
 builder.Services.RegisterServices();

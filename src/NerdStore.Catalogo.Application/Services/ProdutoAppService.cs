@@ -18,10 +18,31 @@ namespace NerdStore.Catalogo.Application.Services
             _estoqueService = estoqueService;   
         }
 
+        public async Task<IEnumerable<ProdutoViewModel>> ObterPorCategoria(int codigo)
+        {
+            return _mapper.Map<IEnumerable<ProdutoViewModel>>(await _produtoRepository.ObterPorCategoria(codigo));
+        }
+
+        public async Task<ProdutoViewModel> ObterPorId(Guid id)
+        {
+            return _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterPorId(id));
+        }
+
+        public async Task<IEnumerable<ProdutoViewModel>> ObterTodos()
+        {
+            return _mapper.Map<IEnumerable<ProdutoViewModel>>(await _produtoRepository.ObterTodos());
+        }
+
+        public async Task<IEnumerable<CategoriaViewModel>> ObterCategorias()
+        {
+            return _mapper.Map<IEnumerable<CategoriaViewModel>>(await _produtoRepository.ObterCategorias());
+        }
+
         public async Task AdicionarProduto(ProdutoViewModel produtoViewModel)
         {
             var produto = _mapper.Map<Produto>(produtoViewModel);
             _produtoRepository.Adicionar(produto);
+
             await _produtoRepository.UnitOfWork.Commit();
         }
 
@@ -29,6 +50,7 @@ namespace NerdStore.Catalogo.Application.Services
         {
             var produto = _mapper.Map<Produto>(produtoViewModel);
             _produtoRepository.Atualizar(produto);
+
             await _produtoRepository.UnitOfWork.Commit();
         }
 
@@ -36,47 +58,27 @@ namespace NerdStore.Catalogo.Application.Services
         {
             if (!_estoqueService.DebitarEstoque(id, quantidade).Result)
             {
-                throw new DomainException(message: "Falha ao debitar estoque");
+                throw new DomainException("Falha ao debitar estoque");
             }
+
             return _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterPorId(id));
         }
-
-
-        public async Task<IEnumerable<ProdutoViewModel>> ObterPorCategoria(int codigo)
-        {
-            return _mapper.Map<IEnumerable<ProdutoViewModel>>(await _produtoRepository.ObterPorCategoria(codigo));
-        }
-
-        public async Task<IEnumerable<CategoriaViewModel>> ObterPorCategorias()
-        {
-            return _mapper.Map<IEnumerable<CategoriaViewModel>>(await _produtoRepository.ObterCategorias());
-        }
-        public async Task<IEnumerable<ProdutoViewModel>> ObterTodos()
-        {
-            return _mapper.Map<IEnumerable<ProdutoViewModel>>(await _produtoRepository.ObterTodos());
-        }
-        public async Task<ProdutoViewModel> ObterPorId(Guid id)
-        {
-            return _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterPorId(id));  
-        }
-
 
         public async Task<ProdutoViewModel> ReporEstoque(Guid id, int quantidade)
         {
-            if(!_estoqueService.ReporEstoque(id, quantidade).Result)
+            if (!_estoqueService.ReporEstoque(id, quantidade).Result)
             {
-                throw new DomainException(message: "Falha ao repor estoque");
+                throw new DomainException("Falha ao repor estoque");
             }
+
             return _mapper.Map<ProdutoViewModel>(await _produtoRepository.ObterPorId(id));
         }
 
-     
         public void Dispose()
         {
             _produtoRepository?.Dispose();
             _estoqueService?.Dispose();
         }
 
-       
     }
 }

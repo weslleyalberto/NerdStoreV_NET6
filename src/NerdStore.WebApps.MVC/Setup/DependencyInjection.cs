@@ -16,7 +16,7 @@ namespace NerdStore.WebApps.MVC.Setup
             services.AddScoped<IProdutoRepository, ProdutoRepository>();
             services.AddScoped<IProdutoAppService,ProdutoAppService>();
             services.AddScoped<IEstoqueService,EstoqueService>();
-            //services.AddScoped<CatalogoContext>();
+            services.AddScoped<CatalogoContext>();
         }
     }
 }

@@ -59,5 +59,10 @@ namespace NerdStore.Catalogo.Data.Repository
         {
             _context?.Dispose();
         }
+
+        public async Task<Categoria> ObterCategoriasPorId(Guid id)
+        {
+            return await _context.Categorias.AsNoTracking().FirstOrDefaultAsync(x => x.Id == id);
+        }
     }
 }

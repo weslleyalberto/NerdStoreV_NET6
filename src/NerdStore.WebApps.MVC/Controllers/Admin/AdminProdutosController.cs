@@ -53,6 +53,7 @@ namespace NerdStore.WebApps.MVC.Controllers.Admin
             var produto = await _produtoAppService.ObterPorId(id);
             produtoViewModel.QuantidadeEstoque = produto.QuantidadeEstoque;
            
+           
 
             ModelState.Remove("QuantidadeEstoque");
             //ModelState.Remove("Categorias");

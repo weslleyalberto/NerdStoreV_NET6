@@ -14,14 +14,14 @@ namespace NerdStore.Catalogo.Domain
         public string Imagem { get;private set; }
         public int QuantidadeEstoque { get; private set; }
         public Dimensoes Dimensoes { get; private set; }
-        public Categoria? Categoria { get; private set; }
+        public Categoria Categoria { get; private set; }
       
         protected Produto() { }
      
 
         public Produto( string nome, string descricao, bool ativo, decimal valor, DateTime dataCadastro,Guid categoriaId, string imagem,Dimensoes dimensoes)
         {
-           
+            CategoriaId = categoriaId;
             Nome = nome;
             Descricao = descricao;
             Ativo = ativo;
@@ -29,7 +29,7 @@ namespace NerdStore.Catalogo.Domain
             DataCadastro = dataCadastro;
             Imagem = imagem;
             Dimensoes = dimensoes;
-            CategoriaId = categoriaId;
+            
             Validar();
           
         }

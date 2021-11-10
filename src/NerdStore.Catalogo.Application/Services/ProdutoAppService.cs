@@ -80,9 +80,5 @@ namespace NerdStore.Catalogo.Application.Services
             _estoqueService?.Dispose();
         }
 
-        public async Task<CategoriaViewModel> ObterCategoriaPorId(Guid id)
-        {
-            return  _mapper.Map<CategoriaViewModel>(await _produtoRepository.ObterCategoriasPorId(id));
-        }
     }
 }

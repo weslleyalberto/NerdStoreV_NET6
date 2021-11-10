@@ -4,7 +4,6 @@ namespace NerdStore.Catalogo.Application.Services
 {
     public interface IProdutoAppService : IDisposable
     {
-        Task<CategoriaViewModel> ObterCategoriaPorId(Guid id);
         Task<IEnumerable<ProdutoViewModel>> ObterPorCategoria(int codigo);
         Task<ProdutoViewModel> ObterPorId(Guid id);
         Task<IEnumerable<ProdutoViewModel>> ObterTodos();

@@ -16,6 +16,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Fiscal", "Fiscal", "{526333A6-56DD-49C2-9B90-6607787A57BC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pagamentos", "Pagamentos", "{CCBEBA37-FF16-40B9-AEB9-063E6130C762}"
+	ProjectSection(SolutionItems) = preProject
+		src\NerdStore.Catalogo.Data\CatalogoContext.cs = src\NerdStore.Catalogo.Data\CatalogoContext.cs
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Vendas", "Vendas", "{56575772-1F13-4C78-AC63-D35490DDB458}"
 EndProject
@@ -31,7 +34,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Catalogo.Data", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.Catalogo.Application", "src\NerdStore.Catalogo.Application\NerdStore.Catalogo.Application.csproj", "{613D5ACA-5B30-4C70-8C13-0997DB58DB9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.WebApps.MVC", "src\NerdStore.WebApps.MVC\NerdStore.WebApps.MVC.csproj", "{525B332A-4BBF-4416-A2D1-0FCBC96ADA6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NerdStore.WebApps.MVC", "src\NerdStore.WebApps.MVC\NerdStore.WebApps.MVC.csproj", "{525B332A-4BBF-4416-A2D1-0FCBC96ADA6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -32,7 +32,7 @@ namespace NerdStore.Catalogo.Application.ViewModels
         [Required(ErrorMessage = "O campo {0} é obrigatório")]
         [Range(1, int.MaxValue, ErrorMessage = "O campo {0} precisa ter valor minimo de  {1}")]
         public int Profundidade { get; set; }
-        public IEnumerable<CategoriaViewModel> Categorias { get; set; }
+        public IEnumerable<CategoriaViewModel> Categorias { get; set; } 
 
 
     }

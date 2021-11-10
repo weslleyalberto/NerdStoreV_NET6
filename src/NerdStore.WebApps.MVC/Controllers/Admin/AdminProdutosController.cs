@@ -13,7 +13,7 @@ namespace NerdStore.WebApps.MVC.Controllers.Admin
         {
             _produtoAppService = produtoAppService;
         }
-       
+
 
         [HttpGet]
         [Route("admin-produtos")]
@@ -52,11 +52,8 @@ namespace NerdStore.WebApps.MVC.Controllers.Admin
         {
             var produto = await _produtoAppService.ObterPorId(id);
             produtoViewModel.QuantidadeEstoque = produto.QuantidadeEstoque;
-           
-           
 
             ModelState.Remove("QuantidadeEstoque");
-            //ModelState.Remove("Categorias");
             if (!ModelState.IsValid) return View(await PopularCategorias(produtoViewModel));
 
             await _produtoAppService.AtualizarProduto(produtoViewModel);

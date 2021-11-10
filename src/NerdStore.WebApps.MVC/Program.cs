@@ -26,7 +26,7 @@ builder.Services.AddMediatR(typeof(Program));
 //Domain Bus (MediatR)
 //builder.Services.AddMediatR(typeof(MediatrHandler));
 
-builder.Services.AddScoped<CatalogoContext>();
+
 builder.Services.RegisterServices();
 var app = builder.Build();
 

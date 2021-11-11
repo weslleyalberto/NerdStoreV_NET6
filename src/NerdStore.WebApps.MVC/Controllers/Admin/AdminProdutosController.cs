@@ -23,6 +23,7 @@ namespace NerdStore.WebApps.MVC.Controllers.Admin
         }
 
         [Route("novo-produto")]
+        [HttpGet]
         public async Task<IActionResult> NovoProduto()
         {
             return View(await PopularCategorias(new ProdutoViewModel()));
@@ -32,6 +33,7 @@ namespace NerdStore.WebApps.MVC.Controllers.Admin
         [HttpPost]
         public async Task<IActionResult> NovoProduto(ProdutoViewModel produtoViewModel)
         {
+            ModelState.Remove("Categorias");
             if (!ModelState.IsValid) return View(await PopularCategorias(produtoViewModel));
 
             await _produtoAppService.AdicionarProduto(produtoViewModel);

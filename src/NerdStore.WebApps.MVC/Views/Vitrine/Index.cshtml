@@ -1,4 +1,5 @@
 ﻿@model IEnumerable<NerdStore.Catalogo.Application.ViewModels.ProdutoViewModel>
+
 @{
     ViewData["Title"] = "Vitrine";
 }
@@ -60,31 +61,32 @@
     }
 </style>
 <div class="container">
+
     <h1>Vitrine de Produtos</h1>
     <br />
     <div class="row">
+        <!-- BEGIN PRODUCTS -->
         @{
-            foreach(var produto in Model.OrderBy(p=> p.CategoriaId))
+            foreach (var produto in Model.OrderBy(p=>p.CategoriaId))
             {
-                <div class="col-md-3 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                 <span class="thumbnail">
-                <a asp-controller="Vitrine" asp-action="ProdutoDetalhe" asp-route-id="@produto.Id">
-                <img src="~/Images/@produto.Id" width="200" height="200"/>
-                </a>
-                <h4>@produto.Nome</h4>
-                <p>Apenas @produto.QuantidadeEstoque em estoque! </p>
-                <p>@produto.Descricao</p>
-                <hr class="line">
-                <div class="row">
-                <div class="col-md-6 col-sm-6">
-                <p class="price">@produto.Valor.ToString("C")</p>
-                </div>
-                </div>
+                    <a asp-controller="Vitrine" asp-action="ProdutoDetalhe" asp-route-id="@produto.Id"><img width="200" height="200" src="~/Images/@produto.Imagem" /></a>
+                    <h4>@produto.Nome</h4>
+                    <p>Apenas @produto.QuantidadeEstoque em estoque!</p>
+                    <p>@produto.Descricao</p>
+                    <hr class="line">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <p class="price">@produto.Valor.ToString("C")</p>
+                        </div>
+                    </div>
                 </span>
-
-                </div>
+            </div>
             }
         }
 
+        <!-- END PRODUCTS -->
     </div>
 </div>
+

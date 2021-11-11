@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\wesll\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Catalogo.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\wesll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -90,6 +93,9 @@
         "packagesPath": "C:\\Users\\wesll\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Catalogo.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\wesll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -154,6 +160,9 @@
         "packagesPath": "C:\\Users\\wesll\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\wesll\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

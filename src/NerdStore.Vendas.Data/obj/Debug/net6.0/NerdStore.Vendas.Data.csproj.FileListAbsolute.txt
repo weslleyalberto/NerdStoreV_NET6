@@ -1,0 +1,12 @@
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\net6.0\NerdStore.Vendas.Data.deps.json
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\net6.0\NerdStore.Vendas.Data.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\net6.0\ref\NerdStore.Vendas.Data.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\bin\Debug\net6.0\NerdStore.Vendas.Data.pdb
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\net6.0\NerdStore.Vendas.Data.csproj.AssemblyReference.cache
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\net6.0\NerdStore.Vendas.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\net6.0\NerdStore.Vendas.Data.AssemblyInfoInputs.cache
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\net6.0\NerdStore.Vendas.Data.AssemblyInfo.cs
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\net6.0\NerdStore.Vendas.Data.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\net6.0\NerdStore.Vendas.Data.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\net6.0\ref\NerdStore.Vendas.Data.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Vendas.Data\obj\Debug\net6.0\NerdStore.Vendas.Data.pdb

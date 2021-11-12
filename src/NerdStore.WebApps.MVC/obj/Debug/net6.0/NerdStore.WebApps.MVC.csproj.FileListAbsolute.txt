@@ -75,5 +75,3 @@ C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.WebApps.MVC\obj\
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.WebApps.MVC\obj\Debug\net6.0\NerdStore.WebApps.MVC.pdb
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.WebApps.MVC\obj\Debug\net6.0\NerdStore.WebApps.MVC.genruntimeconfig.cache
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.WebApps.MVC\bin\Debug\net6.0\FluentValidation.dll
-C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.WebApps.MVC\bin\Debug\net6.0\NerdStore.Vendas.Application.dll
-C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.WebApps.MVC\bin\Debug\net6.0\NerdStore.Vendas.Application.pdb

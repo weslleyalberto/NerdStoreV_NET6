@@ -103,3 +103,4 @@ C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domai
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net6.0\ref\NerdStore.Catalogo.Domain.Tests.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net6.0\NerdStore.Catalogo.Domain.Tests.pdb
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net6.0\NerdStore.Catalogo.Domain.Tests.genruntimeconfig.cache
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\FluentValidation.dll

@@ -18,8 +18,7 @@
           "NerdStore.Catalogo.Application": "1.0.0",
           "NerdStore.Catalogo.Data": "1.0.0",
           "NerdStore.Catalogo.Domain": "1.0.0",
-          "NerdStore.Core": "1.0.0",
-          "NerdStore.Vendas.Application": "1.0.0"
+          "NerdStore.Core": "1.0.0"
         },
         "runtime": {
           "NerdStore.WebApps.MVC.dll": {}
@@ -593,14 +592,6 @@
         "runtime": {
           "NerdStore.Core.dll": {}
         }
-      },
-      "NerdStore.Vendas.Application/1.0.0": {
-        "dependencies": {
-          "NerdStore.Core": "1.0.0"
-        },
-        "runtime": {
-          "NerdStore.Vendas.Application.dll": {}
-        }
       }
     }
   },
@@ -1032,11 +1023,6 @@
       "sha512": ""
     },
     "NerdStore.Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "NerdStore.Vendas.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

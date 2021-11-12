@@ -890,33 +890,6 @@
         "runtime": {
           "bin/placeholder/NerdStore.Core.dll": {}
         }
-      },
-      "NerdStore.Vendas.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "NerdStore.Core": "1.0.0",
-          "NerdStore.Vendas.Domain": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/NerdStore.Vendas.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NerdStore.Vendas.Application.dll": {}
-        }
-      },
-      "NerdStore.Vendas.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "NerdStore.Core": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/NerdStore.Vendas.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/NerdStore.Vendas.Domain.dll": {}
-        }
       }
     }
   },
@@ -2559,16 +2532,6 @@
       "type": "project",
       "path": "../NerdStore.Core/NerdStore.Core.csproj",
       "msbuildProject": "../NerdStore.Core/NerdStore.Core.csproj"
-    },
-    "NerdStore.Vendas.Application/1.0.0": {
-      "type": "project",
-      "path": "../NerdStore.Vendas.Application/NerdStore.Vendas.Application.csproj",
-      "msbuildProject": "../NerdStore.Vendas.Application/NerdStore.Vendas.Application.csproj"
-    },
-    "NerdStore.Vendas.Domain/1.0.0": {
-      "type": "project",
-      "path": "../NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj",
-      "msbuildProject": "../NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2583,8 +2546,7 @@
       "NerdStore.Catalogo.Application >= 1.0.0",
       "NerdStore.Catalogo.Data >= 1.0.0",
       "NerdStore.Catalogo.Domain >= 1.0.0",
-      "NerdStore.Core >= 1.0.0",
-      "NerdStore.Vendas.Application >= 1.0.0"
+      "NerdStore.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2629,9 +2591,6 @@
             },
             "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
               "projectPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj"
-            },
-            "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj": {
-              "projectPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj"
             }
           }
         }

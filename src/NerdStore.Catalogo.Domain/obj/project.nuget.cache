@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BgZRzs9VWsyx4B4ClG+jlrIXKAg8TXPGDFyq36WGf0u/5blul52t8VvtgtdcXnNtXpO6kKyFgt/PQ2CsNz9Xhw==",
+  "dgSpecHash": "AsrmRtOCEyn1p7UwLvxCYtbASyCmpqJBIjz8huuoep584O5XbcuIsfYgFPOuybTNEWqOkNBv7ssmckFn4YntYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\wesll\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\wesll\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],
   "logs": []

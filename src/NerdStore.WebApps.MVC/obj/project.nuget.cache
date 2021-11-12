@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hbQUgEP6MmObMiNj4wx4QQzM6cpycu2HjmIJF8KqXgF6Ty3/uq2RbVqwbm4Fo651m3nqP5ZU/kyUuGrNpPdsMg==",
+  "dgSpecHash": "PlnsHdqSofpAJ6tBAv1jEmLyISoHIFvrepHrTEw0tZ/81ghmPzYlAYnkold5vAX4frLwSRZotkPjR61B8XD4eA==",
   "success": true,
   "projectFilePath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.WebApps.MVC\\NerdStore.WebApps.MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesll\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\wesll\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\wesll\\.nuget\\packages\\fluentvalidation\\10.3.4\\fluentvalidation.10.3.4.nupkg.sha512",
     "C:\\Users\\wesll\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\wesll\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\wesll\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

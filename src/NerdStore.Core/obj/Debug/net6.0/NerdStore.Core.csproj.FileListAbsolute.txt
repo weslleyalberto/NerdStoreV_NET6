@@ -9,3 +9,4 @@ C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Core\obj\Debug\n
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\ref\NerdStore.Core.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.pdb
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\src\NerdStore.Core\obj\Debug\net6.0\NerdStore.Core.csproj.AssemblyReference.cache

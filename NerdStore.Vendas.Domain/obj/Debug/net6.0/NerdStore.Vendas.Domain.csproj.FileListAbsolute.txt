@@ -1,0 +1,15 @@
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Vendas.Domain.deps.json
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Vendas.Domain.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\bin\Debug\net6.0\ref\NerdStore.Vendas.Domain.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Vendas.Domain.pdb
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Core.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\bin\Debug\net6.0\NerdStore.Core.pdb
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.csproj.AssemblyReference.cache
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.AssemblyInfoInputs.cache
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.AssemblyInfo.cs
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.csproj.CopyComplete
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\ref\NerdStore.Vendas.Domain.dll
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\NerdStore.Vendas.Domain\obj\Debug\net6.0\NerdStore.Vendas.Domain.pdb

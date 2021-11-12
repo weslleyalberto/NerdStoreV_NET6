@@ -6,7 +6,7 @@ namespace NerdStore.Vendas.Domain
     {
         Task<Pedido> ObterPorId(Guid id);
         Task<IEnumerable<Pedido>> ObterListaPorClientId(Guid clienteId);
-        Task<Pedido> ObterPedidoRascunhoPorCliente(Guid clienteId);
+        Task<Pedido> ObterPedidoRascunhoPorClienteId(Guid clienteId);
 
         void Adicionar(Pedido pedido);
         void Atualizar(Pedido pedido);

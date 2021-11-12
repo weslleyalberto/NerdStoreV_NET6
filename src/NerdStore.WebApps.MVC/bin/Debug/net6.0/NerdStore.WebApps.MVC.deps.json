@@ -18,7 +18,8 @@
           "NerdStore.Catalogo.Application": "1.0.0",
           "NerdStore.Catalogo.Data": "1.0.0",
           "NerdStore.Catalogo.Domain": "1.0.0",
-          "NerdStore.Core": "1.0.0"
+          "NerdStore.Core": "1.0.0",
+          "NerdStore.Vendas.Application": "1.0.0"
         },
         "runtime": {
           "NerdStore.WebApps.MVC.dll": {}
@@ -46,6 +47,14 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.1.1.0"
+          }
+        }
+      },
+      "FluentValidation/10.3.4": {
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "10.3.4.0"
           }
         }
       },
@@ -578,10 +587,19 @@
       },
       "NerdStore.Core/1.0.0": {
         "dependencies": {
+          "FluentValidation": "10.3.4",
           "MediatR": "9.0.0"
         },
         "runtime": {
           "NerdStore.Core.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Application/1.0.0": {
+        "dependencies": {
+          "NerdStore.Core": "1.0.0"
+        },
+        "runtime": {
+          "NerdStore.Vendas.Application.dll": {}
         }
       }
     }
@@ -605,6 +623,13 @@
       "sha512": "sha512-xSWoVzOipuDU4PeZcUfaZQ+xqXU8QmGv5jrdlxt3MYm9xaOmrefqcfzGQ3SQ+D+8wfBa/ZwSuL0qKOVj080inA==",
       "path": "automapper.extensions.microsoft.dependencyinjection/8.1.1",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512"
+    },
+    "FluentValidation/10.3.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hsGRtnhTlCrRbxIOkKp6rCBtkq3UV0i31ckcJtd5j1i99zqLgbQGcbxK0SMU63DIto94f++uIdRpoycu8ySnDQ==",
+      "path": "fluentvalidation/10.3.4",
+      "hashPath": "fluentvalidation.10.3.4.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",
@@ -1007,6 +1032,11 @@
       "sha512": ""
     },
     "NerdStore.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NerdStore.Vendas.Application/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

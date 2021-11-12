@@ -895,13 +895,27 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "NerdStore.Core": "1.0.0"
+          "NerdStore.Core": "1.0.0",
+          "NerdStore.Vendas.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/NerdStore.Vendas.Application.dll": {}
         },
         "runtime": {
           "bin/placeholder/NerdStore.Vendas.Application.dll": {}
+        }
+      },
+      "NerdStore.Vendas.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "NerdStore.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NerdStore.Vendas.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NerdStore.Vendas.Domain.dll": {}
         }
       }
     }
@@ -2550,6 +2564,11 @@
       "type": "project",
       "path": "../NerdStore.Vendas.Application/NerdStore.Vendas.Application.csproj",
       "msbuildProject": "../NerdStore.Vendas.Application/NerdStore.Vendas.Application.csproj"
+    },
+    "NerdStore.Vendas.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj",
+      "msbuildProject": "../NerdStore.Vendas.Domain/NerdStore.Vendas.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {

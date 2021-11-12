@@ -38,7 +38,7 @@ namespace NerdStore.Vendas.Application.Commands
 
                 }
             }
-            return true;
+            return await _pedidoRepository.UnitOfWork.Commit();
         }
 
 

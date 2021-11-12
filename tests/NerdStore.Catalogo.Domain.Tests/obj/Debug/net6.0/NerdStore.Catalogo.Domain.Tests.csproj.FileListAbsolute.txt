@@ -1,6 +1,6 @@
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\testhost.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\testhost.exe
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\testhost.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
@@ -10,6 +10,7 @@ C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domai
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\NerdStore.Catalogo.Domain.Tests.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\ref\NerdStore.Catalogo.Domain.Tests.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\NerdStore.Catalogo.Domain.Tests.pdb
+C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\MediatR.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -102,4 +103,3 @@ C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domai
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net6.0\ref\NerdStore.Catalogo.Domain.Tests.dll
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net6.0\NerdStore.Catalogo.Domain.Tests.pdb
 C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\obj\Debug\net6.0\NerdStore.Catalogo.Domain.Tests.genruntimeconfig.cache
-C:\Users\wesll\Desktop\Desenvolvedor_io\NerdStore\tests\NerdStore.Catalogo.Domain.Tests\bin\Debug\net6.0\MediatR.dll

@@ -32,5 +32,10 @@
         {
             return GetType().Name + "[ID=" + Id + "]";
         }
+        public virtual bool EhValido()
+        {
+            throw new NotImplementedException();
+        }
+
     }
 }

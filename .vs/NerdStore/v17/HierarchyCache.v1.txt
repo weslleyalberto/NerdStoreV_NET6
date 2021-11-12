@@ -1,5 +1,4 @@
 ﻿++Solução 'NerdStore' ‎(6 de 6 projetos)
-i:{00000000-0000-0000-0000-000000000000}:NerdStore.sln
 ++Services
 i:{00000000-0000-0000-0000-000000000000}:Services
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\services\
@@ -22,13 +21,18 @@ i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:c:\users\wesll\desktop\desenvolvedor_io
 i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.core\bin\debug\net6.0\nerdstore.core.dll
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.core\bin\debug\net6.0\nerdstore.core.dll
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.core\bin\debug\net6.0\nerdstore.core.dll
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.core\nerdstore.core.csproj
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.core\nerdstore.core.csproj
 ++Dependências
-i:{a4531413-5a79-457e-8969-8b151883c65a}:>666
-i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:>668
-i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:>669
-i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:>667
-i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>915
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1163
+i:{a4531413-5a79-457e-8969-8b151883c65a}:>676
+i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:>678
+i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:>679
+i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:>677
+i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>926
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1175
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:>1291
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:>1362
+i:{687974fc-fe2f-45f1-8626-9a0e4f1d6270}:>1415
 ++Bus
 i:{a4531413-5a79-457e-8969-8b151883c65a}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.core\bus\
 ++Data
@@ -45,6 +49,9 @@ i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:analisadores
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:analisadores
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:analisadores
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:analisadores
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:analisadores
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:analisadores
+i:{687974fc-fe2f-45f1-8626-9a0e4f1d6270}:analisadores
 ++Estruturas
 i:{a4531413-5a79-457e-8969-8b151883c65a}:estruturas
 i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:estruturas
@@ -52,6 +59,9 @@ i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:estruturas
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:estruturas
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:estruturas
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:estruturas
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:estruturas
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:estruturas
+i:{687974fc-fe2f-45f1-8626-9a0e4f1d6270}:estruturas
 ++Pacotes
 i:{a4531413-5a79-457e-8969-8b151883c65a}:pacotes
 i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:pacotes
@@ -88,6 +98,9 @@ i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:c:\program files\dotnet\sdk\6.0.100\sdk
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{687974fc-fe2f-45f1-8626-9a0e4f1d6270}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
 ++Microsoft.CodeAnalysis.NetAnalyzers
 i:{a4531413-5a79-457e-8969-8b151883c65a}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
@@ -95,6 +108,9 @@ i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:c:\program files\dotnet\sdk\6.0.100\sdk
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{687974fc-fe2f-45f1-8626-9a0e4f1d6270}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
 ++System.Text.Json.SourceGeneration
 i:{a4531413-5a79-457e-8969-8b151883c65a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
 i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
@@ -102,6 +118,9 @@ i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:c:\program files\dotnet\packs\microsoft
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{687974fc-fe2f-45f1-8626-9a0e4f1d6270}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
 ++Microsoft.NETCore.App
 i:{a4531413-5a79-457e-8969-8b151883c65a}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.core\microsoft.netcore.app
 i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.domain\microsoft.netcore.app
@@ -109,9 +128,12 @@ i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:c:\users\wesll\desktop\desenvolvedor_io
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\microsoft.netcore.app
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\tests\nerdstore.catalogo.domain.tests\microsoft.netcore.app
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\microsoft.netcore.app
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.domain\microsoft.netcore.app
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.application\microsoft.netcore.app
+i:{687974fc-fe2f-45f1-8626-9a0e4f1d6270}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.data\microsoft.netcore.app
 ++MediatR (9.0.0)
-i:{a4531413-5a79-457e-8969-8b151883c65a}:>1201
-i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:>1173
+i:{a4531413-5a79-457e-8969-8b151883c65a}:>1229
+i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:>1185
 ++Catalogo
 i:{d31b1db6-6752-4b88-aad6-7748c5c8bfec}:Catalogo
 ++NerdStore.Catalogo.Domain
@@ -122,6 +144,7 @@ i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:c:\users\wesll\desktop\desenvolvedor_io
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.domain\bin\debug\net6.0\nerdstore.catalogo.domain.dll
 ++Events
 i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.domain\events\
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.application\events\
 ++Categoria.cs
 i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.domain\categoria.cs
 ++Dimensoes.cs
@@ -140,6 +163,8 @@ i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:projetos
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:projetos
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:projetos
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:projetos
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:projetos
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:projetos
 ++ProdutoAbaixoEstoqueEvent.cs
 i:{b9803de9-2c7f-449c-a58b-5ddf258bc653}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.domain\events\produtoabaixoestoqueevent.cs
 ++ProdutoEventHandler.cs
@@ -174,12 +199,12 @@ i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:c:\users\wesll\.nuget\packages\microsof
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
 ++Microsoft.EntityFrameworkCore (6.0.0)
-i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:>1210
+i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:>1262
 ++Microsoft.EntityFrameworkCore.Design (6.0.0)
-i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:>1216
+i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:>1264
 ++Microsoft.EntityFrameworkCore.SqlServer (6.0.0)
-i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:>1213
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1244
+i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:>1263
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1241
 ++20211108005622_Initial.Designer.cs
 i:{0dbe8ba3-e320-4a6e-945d-ede3e7235388}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.data\migrations\20211108005622_initial.designer.cs
 ++NerdStore.Catalogo.Application
@@ -187,6 +212,8 @@ i:{20f9f2a6-9408-45d4-b641-a645a817a7a6}:NerdStore.Catalogo.Application
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\bin\debug\net6.0\nerdstore.catalogo.application.dll
 ++AutoMapper
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\automapper\
+++ViewModels
+i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\viewmodels\
 ++DomainToViewModelMappingProfile.cs
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\automapper\domaintoviewmodelmappingprofile.cs
 ++ViewModelToDomainMappingProfile.cs
@@ -195,14 +222,12 @@ i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\services\iprodutoappservice.cs
 ++ProdutoAppService.cs
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\services\produtoappservice.cs
-++ViewModels
-i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\viewmodels\
 ++CategoriaViewModel.cs
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\viewmodels\categoriaviewmodel.cs
 ++ProdutoViewModel.cs
 i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.catalogo.application\viewmodels\produtoviewmodel.cs
 ++AutoMapper (10.1.1)
-i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:>1212
+i:{613d5aca-5b30-4c70-8c13-0997db58db9f}:>1228
 ++Tests
 i:{20f9f2a6-9408-45d4-b641-a645a817a7a6}:Tests
 ++NerdStore.Catalogo.Domain.Tests
@@ -212,23 +237,51 @@ i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:c:\users\wesll\desktop\desenvolvedor_io
 ++xunit.analyzers
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:c:\users\wesll\.nuget\packages\xunit.analyzers\0.10.0\analyzers\dotnet\cs\xunit.analyzers.dll
 ++coverlet.collector (3.1.0)
-i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>1220
+i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>1225
 ++Microsoft.NET.Test.Sdk (17.0.0)
 i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>1211
 ++xunit (2.4.1)
-i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>1214
+i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>1215
 ++xunit.runner.visualstudio (2.4.3)
-i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>1218
+i:{cb4c9645-bc02-4dd0-babf-47cc65d6d628}:>1220
 ++WebApps
 i:{00000000-0000-0000-0000-000000000000}:WebApps
 ++NerdStore.WebApps.MVC
 i:{55f6abba-5f7b-45c6-8cfc-578f04fb9458}:NerdStore.WebApps.MVC
 ++Connected Services 
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1164
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1176
 ++Properties
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\properties\
 ++wwwroot
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\
+++css
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\css\
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\dist\css\
+++Images
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\
+++camiseta1.jpg
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\camiseta1.jpg
+++camiseta2.jpg
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\camiseta2.jpg
+++camiseta3.jpg
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\camiseta3.jpg
+++camiseta4.jpg
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\camiseta4.jpg
+++caneca1.jpg
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\caneca1.jpg
+++caneca2.jpg
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\caneca2.jpg
+++caneca3.jpg
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\caneca3.jpg
+++caneca4.jpg
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\caneca4.jpg
+++js
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\js\
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\
+++favicon.ico
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\favicon.ico
 ++Areas
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\areas\
 ++Controllers
@@ -251,22 +304,26 @@ i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\
 ++AdminProdutos
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\
-++AtualizarProduto.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\atualizarproduto.cshtml
-++Estoque.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\estoque.cshtml
-++Index.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\index.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\home\index.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\vitrine\index.cshtml
-++NovoProduto.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\novoproduto.cshtml
 ++Home
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\home\
 ++Shared
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\
+++_Layout.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\error.cshtml
 ++Vitrine
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\vitrine\
+++Index.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\vitrine\index.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\index.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\home\index.cshtml
+++ProdutoDetalhe.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\vitrine\produtodetalhe.cshtml
 ++_ViewImports.cshtml
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\_viewimports.cshtml
 ++_ViewStart.cshtml
@@ -277,41 +334,39 @@ i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io
 ++Program.cs
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\program.cs
 ++LocalDB do SQL Server Express (Local) (ConnectionStrings:DefaultConnection)
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1256
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1268
 ++launchSettings.json
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\properties\launchsettings.json
 ++serviceDependencies.json
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\properties\servicedependencies.json
-++css
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\css\
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\dist\css\
-++Images
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\
-++js
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\js\
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\dist\js\
-++lib
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\
-++favicon.ico
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\favicon.ico
+++site.css
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\css\site.css
+++site.js
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\js\site.js
+++bootstrap
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\
+++jquery
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery-validation-unobtrusive\
 ++Identity
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\areas\identity\
 ++ApplicationDbContext.cs
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\data\applicationdbcontext.cs
 ++ErrorViewModel.cs
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\models\errorviewmodel.cs
+++AtualizarProduto.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\atualizarproduto.cshtml
+++Estoque.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\estoque.cshtml
+++NovoProduto.cshtml
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\adminprodutos\novoproduto.cshtml
 ++Privacy.cshtml
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\home\privacy.cshtml
-++_Layout.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\_layout.cshtml
-++_LoginPartial.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\_loginpartial.cshtml
-++_ValidationScriptsPartial.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\_validationscriptspartial.cshtml
-++Error.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\error.cshtml
-++ProdutoDetalhe.cshtml
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\vitrine\produtodetalhe.cshtml
+++_Layout.cshtml.css
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\_layout.cshtml.css
 ++appsettings.Development.json
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\appsettings.development.json
 ++Microsoft.AspNetCore.Analyzers
@@ -331,41 +386,19 @@ i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\program files\dotnet\sdk\6.0.100\sdk
 ++Microsoft.AspNetCore.App
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\microsoft.aspnetcore.app
 ++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1245
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1242
 ++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1249
-++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.0)
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1246
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.0)
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1243
 ++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.0)
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1247
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1244
 ++Microsoft.AspNetCore.Identity.UI (6.0.0)
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1250
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1247
 ++Microsoft.EntityFrameworkCore.Tools (6.0.0)
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1248
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:>1245
 ++serviceDependencies.local.json
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\properties\servicedependencies.local.json
-++site.css
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\css\site.css
-++caneca1.jpg
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\images\caneca1.jpg
-++site.js
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\js\site.js
-++bootstrap
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\
-++jquery
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery\
-++jquery-validation
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery-validation\
-++jquery-validation-unobtrusive
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery-validation-unobtrusive\
-++Pages
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\areas\identity\pages\
-++00000000000000_CreateIdentitySchema.cs
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\data\migrations\00000000000000_createidentityschema.cs
-++ApplicationDbContextModelSnapshot.cs
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\data\migrations\applicationdbcontextmodelsnapshot.cs
-++_Layout.cshtml.css
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\views\shared\_layout.cshtml.css
 ++dist
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\dist\
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery\dist\
@@ -379,8 +412,12 @@ i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery-validation\license.md
 ++jquery.validate.unobtrusive.js
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
-++00000000000000_CreateIdentitySchema.Designer.cs
-i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\data\migrations\00000000000000_createidentityschema.designer.cs
+++Pages
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\areas\identity\pages\
+++00000000000000_CreateIdentitySchema.cs
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\data\migrations\00000000000000_createidentityschema.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\data\migrations\applicationdbcontextmodelsnapshot.cs
 ++jquery.js
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery\dist\jquery.js
 ++additional-methods.js
@@ -389,6 +426,8 @@ i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
 ++jquery.validate.unobtrusive.min.js
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\data\migrations\00000000000000_createidentityschema.designer.cs
 ++bootstrap.css
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
 ++bootstrap-grid.css
@@ -485,3 +524,40 @@ i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
 ++bootstrap.esm.min.js.map
 i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.webapps.mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Solução 'NerdStore' ‎(7 de 7 projetos)
+++NerdStore.Vendas.Domain
+i:{56575772-1f13-4c78-ac63-d35490ddb458}:NerdStore.Vendas.Domain
+++Class1.cs
+++Pedido.cs
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.domain\pedido.cs
+++PedidoItem.cs
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.domain\pedidoitem.cs
+++IPedidoRepository.cs
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.domain\ipedidorepository.cs
+++PedidoStatus.cs
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.domain\pedidostatus.cs
+++Voucher.cs
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.domain\voucher.cs
+++TipoDescontoVoucher.cs
+i:{665f3551-4658-45d5-ab71-9b30fe5e1ea6}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.domain\tipodescontovoucher.cs
+++Solução 'NerdStore' ‎(8 de 8 projetos)
+++NerdStore.Vendas.Application
+i:{56575772-1f13-4c78-ac63-d35490ddb458}:NerdStore.Vendas.Application
+i:{525b332a-4bbf-4416-a2d1-0fcbc96ada6b}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.application\nerdstore.vendas.application.csproj
+++Solução 'NerdStore' ‎(9 de 9 projetos)
+i:{00000000-0000-0000-0000-000000000000}:NerdStore.sln
+++NerdStore.Vendas.Data
+i:{56575772-1f13-4c78-ac63-d35490ddb458}:NerdStore.Vendas.Data
+++Command.cs
+i:{a4531413-5a79-457e-8969-8b151883c65a}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.core\messages\command.cs
+++FluentValidation (10.3.4)
+i:{a4531413-5a79-457e-8969-8b151883c65a}:>2036
+++NovaPasta
+++Commands
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.application\commands\
+++Queries
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.application\queries\
+++AdicionarItemPedidoCommand.cs
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.application\commands\adicionaritempedidocommand.cs
+++PedidoCommandHandler.cs
+i:{2d255718-919d-4d19-9d25-e5613c760af7}:c:\users\wesll\desktop\desenvolvedor_io\nerdstore\src\nerdstore.vendas.application\commands\pedidocommandhandler.cs

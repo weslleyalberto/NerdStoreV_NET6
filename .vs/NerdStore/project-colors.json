@@ -35,7 +35,22 @@
       "ProjectGuid": "525b332a-4bbf-4416-a2d1-0fcbc96ada6b",
       "DisplayName": "NerdStore.WebApps.MVC",
       "ColorIndex": 5
+    },
+    "665f3551-4658-45d5-ab71-9b30fe5e1ea6": {
+      "ProjectGuid": "665f3551-4658-45d5-ab71-9b30fe5e1ea6",
+      "DisplayName": "NerdStore.Vendas.Domain",
+      "ColorIndex": 6
+    },
+    "2d255718-919d-4d19-9d25-e5613c760af7": {
+      "ProjectGuid": "2d255718-919d-4d19-9d25-e5613c760af7",
+      "DisplayName": "NerdStore.Vendas.Application",
+      "ColorIndex": 7
+    },
+    "687974fc-fe2f-45f1-8626-9a0e4f1d6270": {
+      "ProjectGuid": "687974fc-fe2f-45f1-8626-9a0e4f1d6270",
+      "DisplayName": "NerdStore.Vendas.Data",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 9
 }

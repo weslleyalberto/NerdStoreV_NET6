@@ -75,8 +75,8 @@
     },
     "NerdStore.Core/1.0.0": {
       "type": "project",
-      "path": "../NerdStore.Core/NerdStore.Core.csproj",
-      "msbuildProject": "../NerdStore.Core/NerdStore.Core.csproj"
+      "path": "../src/NerdStore.Core/NerdStore.Core.csproj",
+      "msbuildProject": "../src/NerdStore.Core/NerdStore.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -91,11 +91,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
       "projectName": "NerdStore.Vendas.Domain",
-      "projectPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
+      "projectPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\NerdStore.Vendas.Domain\\NerdStore.Vendas.Domain.csproj",
       "packagesPath": "C:\\Users\\wesll\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\src\\NerdStore.Vendas.Domain\\obj\\",
+      "outputPath": "C:\\Users\\wesll\\Desktop\\Desenvolvedor_io\\NerdStore\\NerdStore.Vendas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
